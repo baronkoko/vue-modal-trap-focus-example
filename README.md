@@ -1,5 +1,7 @@
 # vue-modal-trap-focus-example
 
+Example of keyboard friendly (accessible) modals.
+
 ## Project setup
 ```
 yarn install
