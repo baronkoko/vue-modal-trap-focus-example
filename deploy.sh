@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+git push -f https://github.com/baronkoko/vue-modal-trap-focus-example.git master:gh-pages
 
 cd -
