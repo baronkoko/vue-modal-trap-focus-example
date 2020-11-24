@@ -83,7 +83,7 @@
 		}
 
 		@Watch('open')
-		private onOpenChanged(value: boolean) {
+		private onOpenChange(value: boolean) {
 			value ? this.handleModalOpen() : this.handleModalClose();
 		}
 
